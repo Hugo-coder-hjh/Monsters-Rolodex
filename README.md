@@ -1,4 +1,5 @@
 # Monsters-Rolodex
+👽 a website showing different cute monsters and we can search the one we are interested in by name.
 
 ### Get Started
 `npm start`
